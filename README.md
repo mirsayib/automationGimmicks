@@ -1,6 +1,6 @@
 # automationGimmicks
 Small stuff I automated using Python for my lazy self
-Note: to use, please edit the directories to match for your own system
+Note: to use, please edit the directories to match those of your own system
 
 general tools: pyperclips, shutil, ...
 mostly I used selenium, bs4, requests and webbrowser modules for webscraping
