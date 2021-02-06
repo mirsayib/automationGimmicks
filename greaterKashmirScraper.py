@@ -22,7 +22,7 @@ try:
 
     webbrowser.open('gk.txt')
 except:
-    print('Something went wrong, Check Your Internet Connection and make sure you haven\'t deleted a necessary file')
+    print('Something went wrong, Check Your Internet Connection')
 
 
 
